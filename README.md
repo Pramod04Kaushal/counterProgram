@@ -4,7 +4,7 @@ A small counter app built with **HTML**, **CSS**, and **JavaScript**.
 Features: Increase, Decrease, Reset — responsive and easy to read.
 
 ## Demo
-A live demo is available via GitHub Pages: `https://<your-username>.github.io/<repo-name>/`
+A live demo is available via GitHub Pages: `https://pramod04kaushal.github.io/counterProgram/`
 
 ## Files
 - `index.html` — main HTML file
